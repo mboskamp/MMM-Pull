@@ -1,0 +1,15 @@
+{
+  "TELEGRAM_MODULE_NOT_SPECIFIED": "Parameter erwartet. Beispiel: /pull MMM-Pull.",
+  "TELEGRAM_MODULE_NOT_FOUND": "Das Modul {module} konnte nicht gefunden werden.",
+  "TELEGRAM_MODULE_EXCLUDED": "Das Modul {module} wurde in der config ausgeschlossen und wird daher nicht gepullt.",
+  "TELEGRAM_DEFAULT_MODULE_NOT_SUPPORTED": "{module} ist ein Default-Modul und kann nur zusammen mit MagicMirror aktualisiert werden. Zum Aktualisieren aller Default-Module, bitte /pullMirror verwenden.",
+  "TELEGRAM_PULLING_ONE": "Pulle Änderungen für Modul {module}.",
+  "TELEGRAM_PULLING_MIRROR": "Pulle Änderungen für MagicMirror.",
+  "TELEGRAM_PULLING_ALL": "Pulle Änderungen für folgende Module: \r\n{list}",
+  "TELEGRAM_PULLING_EVERYTHING": "Pulle Änderungen für folgende Module: \r\n{list}\r\nAnschließend werden die Änderungen für MagicMirror gepullt.",
+  "TELEGRAM_PULL_SUCCESS": "Das Pullen von {module} war erfolgreich.",
+  "TELEGRAM_PULL_FAILED": "Das Pullen von {module} ist fehlgeschlagen.",
+  "TELEGRAM_EXECUTE_SCRIPT": "Führe Script aus: {script}",
+  "TELEGRAM_EXECUTION_FAILED": "Ausführung des Scripts fehlgeschlagen.",
+  "TELEGRAM_EXECUTION_SUCCESS": "Ausführung des Scripts erfolgreich gestartet."
+}
