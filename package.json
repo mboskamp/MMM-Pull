@@ -1,0 +1,17 @@
+{
+  "name": "mmm-pull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-Pull.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "path": "^0.12.7",
+    "promise-reflect": "^1.1.0",
+    "simple-git": "^1.92.0"
+  }
+}
