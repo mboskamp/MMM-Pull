@@ -28,4 +28,4 @@ To start the module insert it in the config.js file. Here is an example:
 | Option  | Description | Type | Default |
 | ------- | --- | --- | --- |
 | excludeModules | Array of module names that should not be pulled via this module. | **Array of Strings**  | **none** |
-| restartScript | Script to restart your MagicMirror after pulling changes. If not specified the MagicMirror will not restart after successfully pulling changes. | **none** | **required** |
+| restartScript | Script to restart your MagicMirror after pulling changes. If not specified the MagicMirror will not restart after successfully pulling changes. | **String** | **none** |
